@@ -8,8 +8,8 @@ on:
       - test
 
 jobs:
-#  test:
-#    name: Test and lint
+  test:
+    name: Test and lint
 #    uses: frap/sre-build/.github/workflows/development.yml@main
 
   docker:
